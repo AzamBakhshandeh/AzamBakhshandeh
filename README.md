@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Azam Bakhshandeh 👋
 
-<!--
-**AzamBakhshandeh/AzamBakhshandeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Bioinformatics Student at University of Bologna
 
-Here are some ideas to get you started:
+🔬 Currently conducting my Master's thesis research at Nantes Université (France)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Interested in:
+- Machine Learning
+- Deep Learning
+- Bioinformatics
+- Computational Biology
+- Representation Learning
+
+## Current Research
+
+Analysis of Temporal Ego-Networks Using Representation Learning
+
+Tools:
+- Python
+- PyTorch
+- Scikit-learn
+- Git
+- Jupyter Notebook
+
+## Contact
+
+- LinkedIn
+- Google Scholar
+- ORCID
