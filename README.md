@@ -1,12 +1,12 @@
 # Hi, I'm Azam Bakhshandeh 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1500&color=4F46E5&center=true&vCenter=true&width=900&lines=Representation+Learning+for+Networks;Deep+Clustering+Research;Bioinformatics+%C3%97+Machine+Learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=2000&color=4F46E5&center=true&vCenter=true&width=900&lines=Deep+Clustering+Research;Temporal+Ego-Network+Analysis;Bioinformatics+%C3%97+Machine+Learning" />
 </p>
 
-🎓 MSc Bioinformatics Student at University of Bologna 🇮🇹
+🎓 MSc Bioinformatics Student at University of Bologna (Italy)
 
-🔬 Master's Thesis Research at Nantes Université 🇫🇷
+🔬 Master's Thesis Research at Nantes Université (France)
 
 ## 🧪 Research Interests
 
