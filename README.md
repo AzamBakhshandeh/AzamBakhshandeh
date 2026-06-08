@@ -14,21 +14,22 @@
   </a>
 
   <a href="https://scholar.google.com/citations?user=rB0UiqMAAAAJ&hl=en">
-  <img src="https://img.shields.io/badge/Google_Scholar-EB4585?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/Google_Scholar-F7931E?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+  </a>
 
   <a href="https://orcid.org/0000-0002-0256-6660">
-    <img src="https://img.shields.io/badge/ORCID-4285F77?style=for-the-badge&logo=orcid&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
   </a>
 
   <a href="mailto:azambakhshandeh73@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FCC624?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 
 
 # Hi, I'm Azam Bakhshandeh 👋
+
 
 ### 👩‍💻 About Me
 
@@ -115,13 +116,17 @@ Machine learning models for protein signal peptide identification.
 
 ## 📚 Publications
 
-* **First Author** — *Multi-objective Scheduling Model in Medical Tourism Centers Considering Multi-task Staff Training*
-  https://doi.org/10.1016/j.engappai.2023.107808
+* 🥇 First Author — *Multi-objective Scheduling Model in Medical Tourism Centers Considering Multi-task Staff Training*
+  
+  [🔗 DOI](https://doi.org/10.1016/j.engappai.2023.107808)
 
-* **Co-author** — *Nanovaccines for Cancer Immunotherapy: Focusing on Complex Formation Between Adjuvant and Antigen*
-  https://doi.org/10.1016/j.intimp.2023.109887
+* 🤝 Co-author — *Nanovaccines for Cancer Immunotherapy: Focusing on Complex Formation Between Adjuvant and Antigen*
+  
+  [🔗 DOI](https://doi.org/10.1016/j.intimp.2023.109887)
+  
 
-🎓 Complete publication list available on my Google Scholar profile.
+🎓 Complete publication list available on my
+[Google Scholar Profile](https://scholar.google.com/citations?user=rB0UiqMAAAAJ&hl=en).
 
 
 
