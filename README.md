@@ -1,8 +1,34 @@
-# Hi, I'm Azam Bakhshandeh 👋
+<p align="center">
+  <img src="banner.png" width="100%" />
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=2000&color=4F46E5&center=true&vCenter=true&width=900&lines=Deep+Clustering+Research;Temporal+Ego-Network+Analysis;Bioinformatics+%C3%97+Machine+Learning" />
 </p>
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/azam-bakhshandeh-740b1335a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
+  </a>
+
+  <a href="https://scholar.google.com/citations?user=rB0UiqMAAAAJ&hl=en">
+  <img src="https://img.shields.io/badge/Google_Scholar-EB4585?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+</a>
+
+  <a href="https://orcid.org/0000-0002-0256-6660">
+    <img src="https://img.shields.io/badge/ORCID-4285F77?style=for-the-badge&logo=orcid&logoColor=white"/>
+  </a>
+
+  <a href="mailto:azambakhshandeh73@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FCC624?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+
+
+# Hi, I'm Azam Bakhshandeh 👋
 
 ### 👩‍💻 About Me
 
@@ -97,15 +123,13 @@ Machine learning models for protein signal peptide identification.
 
 🎓 Complete publication list available on my Google Scholar profile.
 
-## 📫 Contact
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/azam-bakhshandeh-740b1335a/)
-- 🎓 [Google Scholar](https://scholar.google.com/citations?user=rB0UiqMAAAAJ&hl=en)
-- 🧬 [ORCID](https://orcid.org/0000-0002-0256-6660)
-- 📧 azambakhshandeh73@gmail.com
+
+
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AzamBakhshandeh&theme=vue&hide_border=true&background=F8FAFC" />
 </p>
+
