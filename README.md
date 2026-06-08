@@ -21,43 +21,55 @@ Amirkabir University of Technology, Iran
 
 ## 🔭 Research Interests
 
-- 🧠 Deep Learning
-- 🤖 Machine Learning
-- 🧬 Bioinformatics
-- 📊 Representation Learning
-- 🌐 Network Analysis
-- 🔍 Computational Biology
+<p>
+  <img src="https://img.shields.io/badge/Deep%20Learning-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bioinformatics-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Representation%20Learning-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Network%20Analysis-teal?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computational%20Biology-red?style=for-the-badge" />
+</p>
 
 ## 🚀 Current Thesis
 
 **Analysis of Temporal Ego-Networks Using Representation Learning**
 
-🏛️ LS2N Laboratory — Nantes Université (France)
+🏛️ LS2N Laboratory — Nantes Université
 
-### Methods
-- Dense Autoencoder
-- Conv1D Autoencoder
-- Conv2D Autoencoder
-- LSTM Autoencoder
-- GRU Autoencoder
-- Transformer Autoencoder
-- KMeans Clustering
+🧠 **Methods:** Dense AE • Conv1D AE • Conv2D AE • LSTM AE • GRU AE • Transformer AE • KMeans
 
-### Tech Stack
-- Python
-- PyTorch
-- Scikit-learn
-- Git
-- Jupyter Notebook
+## 🛠️ Tech Stack
 
-## 🛠️ Tools & Technologies
-
+### 💻 Programming
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### 🤖 Machine Learning & AI
+<p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Clustering-20B2AA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Representation_Learning-4169E1?style=for-the-badge" />
+</p>
+
+### 🧬 Bioinformatics
+<p>
+  <img src="https://img.shields.io/badge/Biopython-3776AB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sequence_Analysis-228B22?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Protein_Analysis-008B8B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Genomics-B22222?style=for-the-badge" />
+</p>
+
+### 🛠️ Development Tools
+<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
 </p>
 
@@ -95,5 +107,5 @@ Machine learning models for protein signal peptide identification.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AzamBakhshandeh" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AzamBakhshandeh&theme=vue&hide_border=true&background=F8FAFC" />
 </p>
