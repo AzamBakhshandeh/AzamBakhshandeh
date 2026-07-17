@@ -129,14 +129,7 @@ Machine learning models for protein signal peptide identification.
 [Google Scholar Profile](https://scholar.google.com/citations?user=rB0UiqMAAAAJ&hl=en).
 
 
+## 🤝 Let's Connect
 
+I am always interested in collaborations in Bioinformatics, Machine Learning, and Computational Biology.
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img
-    width="480"
-    src="https://github-stats-extended.vercel.app/api?username=AzamBakhshandeh&show_icons=true&theme=default&border_color=4F46E5&title_color=4F46E5"
-    alt="Azam Bakhshandeh's GitHub Stats"
-  />
-</div>
