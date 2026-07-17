@@ -135,6 +135,11 @@ Machine learning models for protein signal peptide identification.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AzamBakhshandeh&theme=vue&hide_border=true&background=F8FAFC" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AzamBakhshandeh&show_icons=true&theme=default" />
+  <img height="170" src="https://streak-stats.demolab.com?user=AzamBakhshandeh&theme=default" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzamBakhshandeh&layout=compact" />
 </p>
 
