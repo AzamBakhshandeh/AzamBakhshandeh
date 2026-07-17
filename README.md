@@ -129,7 +129,7 @@ Machine learning models for protein signal peptide identification.
 [Google Scholar Profile](https://scholar.google.com/citations?user=rB0UiqMAAAAJ&hl=en).
 
 
-## 🤝 Let's Connect
+## 🤝 Open to Collaborations
 
-I am always interested in collaborations in Bioinformatics, Machine Learning, and Computational Biology.
+I am always interested in research collaborations and opportunities in Bioinformatics, Machine Learning, Computational Biology, and AI for Healthcare.
 
